@@ -1,1 +1,1 @@
-web gunicorn optimizemyjourney:app
+web: gunicorn optimizemyjourney:app
