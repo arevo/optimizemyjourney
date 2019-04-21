@@ -1,1 +1,1 @@
-web gunicorn deploy: optimizemyjourney
+web gunicorn optimizemyjourney:app
